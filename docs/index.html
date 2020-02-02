@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Java技术栈 - 程序猿升级课 </title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"> -->
+ <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+ 	<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+ 	<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+   <script>
+ 	  const gitalk = new Gitalk({
+ 		clientID: '3f566662c69b9bdea436',
+ 		clientSecret: '6d28c37c9cf259ccd2435a272c042ffc0d48c027',
+ 		repo: 'java-notes-doc',
+ 		owner: 'lxchinesszz',
+ 		admin: ['lxchinesszz'],
+ 		// facebook-like distraction free mode
+ 		distractionFreeMode: false
+ 	  })
+   </script>
+</head>
+<body>
+  <div id="app">Please wait...</div>
+  <script>
+    window.$docsify = {
+      name: '《Java 开发者学习指南》',
+      repo: 'https://github.com/lxchinesszz/java-notes-doc.git',
+      coverpage: true,
+	  loadNavbar: true,
+	  loadSidebar: true,
+	  subMaxLevel: 2
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+</body>
+</html>

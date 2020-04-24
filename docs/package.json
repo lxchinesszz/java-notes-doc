@@ -1,0 +1,21 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "docsify start .",
+    "deploy": "now -p"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.0",
+    "now": "^17.0.3"
+  },
+  "docsify": {
+      "config": {
+        "basePath": "https://docsify.js.org/",
+        "loadSidebar": true,
+        "loadNavbar": true
+      }
+    }
+
+}

@@ -3,7 +3,7 @@
     - [语法基础]()
 	- [集合](/BasicJava/集合是什么.md)
 	- [面向对象](/BasicJava/面向对象.md)
-	- [异常体系]()
+	- [异常体系](/BasicJava/异常体系.md)
 - Java进阶
     - [函数式编程](/EnhanceJava/函数式编程.md)
 	- [线程池](/EnhanceJava/线程池.md)
@@ -13,7 +13,7 @@
 	- [线程安全]()
 	- [多线程锁]()
 	- [线程隔离](/EnhanceJava/线程隔离技术.md)
-	- [原子操作]()
+	- [原子操作](/EnhanceJava/原子操作.md)
 	- [深浅拷贝](/EnhanceJava/深浅拷贝.md)
 	- [四大引用](/EnhanceJava/四大引用.md)
 	- [Hooks钩子函数](/EnhanceJava/Hooks函数.md)

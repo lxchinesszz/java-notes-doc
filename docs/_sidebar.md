@@ -9,6 +9,7 @@
 	- [线程池](/EnhanceJava/线程池.md)
 	- [拒绝策略](/EnhanceJava/拒绝策略.md)
 	- [线程工厂](/EnhanceJava/线程工厂.md)
+	- [类加载器](/EnhanceJava/类加载器与双亲委派模型.md)
 	- [线程组]()
 	- [线程安全]()
 	- [多线程锁]()

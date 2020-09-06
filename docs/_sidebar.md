@@ -1,4 +1,4 @@
-- [介绍](/README.md) 
+- [介绍](/README.md)
 - Java基础
     - [语法基础]()
 	- [集合](/BasicJava/集合是什么.md)
@@ -10,7 +10,7 @@
 	- [拒绝策略](/EnhanceJava/拒绝策略.md)
 	- [线程工厂](/EnhanceJava/线程工厂.md)
 	- [类加载器](/EnhanceJava/类加载器与双亲委派模型.md)
-	- [线程组]()
+	- [线程组](/EnhanceJava/线程组.md)
 	- [线程安全]()
 	- [多线程锁]()
 	- [分布式锁]()
@@ -20,7 +20,7 @@
 	- [四大引用](/EnhanceJava/四大引用.md)
 	- [Hooks钩子函数](/EnhanceJava/Hooks函数.md)
 	- [Java SPI](/EnhanceJava/Java中的SPI.md)
-	- [JMX]()
+	- [JMX](/EnhanceJava/JMX.md)
 	- [JavaAgent探针]()
 	- [动态代理]()
 - 数据结构与算法
@@ -39,10 +39,19 @@
 	- [Spring]()
 	- [Mybatis]()
 	- [Dubbo]()
-- 设计模式
-    - [行为型]()
-	- [创建型]()
+- [设计模式之行为型](/DesignPattern/behavior/README.md)
+    - [事件通知]()
+- [设计模式之创建型](/DesignPattern/create/README.md)
+	- [单例](/DesignPattern/create/单例.md)
+- [设计模式之结构型](/DesignPattern/structure/README.md)
 	- [结构型]()
+- 面试题
+    - [框架篇]()
+    - [Sql优化篇](/interview/InnoDB索引存储结构知识点.md)
+    - [Mysql索引性能优化](/interview/Mysql索引性能优化.md)
+    - [Mysql优化示例](/interview/Mysql优化示例.md)
+    - [Mysql模拟创建海量数据并使用Profiles进行分析](/interview/Mysql模拟创建海量数据并使用Profiles进行分析.md)
+    - [Mysql锁机制](/interview/Mysql锁机制.md)
 - micro-service
 	- [SpringBoot]()
 	- [SpringCloud]()
@@ -53,3 +62,5 @@
 	- [ActiveMQ]()
 	- [RockctMQ]()
 	- [Kafka]()
+- 分布式事务
+    - [分布式事务](/distributedTransaction/分布式事务.md)

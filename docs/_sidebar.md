@@ -11,8 +11,8 @@
 	- [线程工厂](/EnhanceJava/线程工厂.md)
 	- [类加载器](/EnhanceJava/类加载器与双亲委派模型.md)
 	- [线程组](/EnhanceJava/线程组.md)
-	- [线程安全]()
-	- [多线程锁]()
+	- [线程安全](/EnhanceJava/线程安全.md)
+	- [多线程锁](/EnhanceJava/多线程锁.md)
 	- [分布式锁]()
 	- [线程隔离](/EnhanceJava/线程隔离技术.md)
 	- [原子操作](/EnhanceJava/原子操作.md)
@@ -52,6 +52,7 @@
     - [Mysql优化示例](/interview/Mysql优化示例.md)
     - [Mysql模拟创建海量数据并使用Profiles进行分析](/interview/Mysql模拟创建海量数据并使用Profiles进行分析.md)
     - [Mysql锁机制](/interview/Mysql锁机制.md)
+	- [synchronized的锁升级](/interview/synchronized的锁升级.md)
 - micro-service
 	- [SpringBoot]()
 	- [SpringCloud]()

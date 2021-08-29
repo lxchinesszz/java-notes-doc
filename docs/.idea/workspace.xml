@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f0a49d8-7327-4fc9-88f0-c1661096bf39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EnhanceJava/多线程锁.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnhanceJava/线程安全.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/synchronized的锁升级.md" afterDir="false" />
+    <list default="true" id="4f0a49d8-7327-4fc9-88f0-c1661096bf39" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/testDocs/test1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDocs/test2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDocs/test3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
     </list>
@@ -257,6 +257,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -296,7 +297,9 @@
       <workItem from="1599296997873" duration="3947000" />
       <workItem from="1599383622783" duration="1103000" />
       <workItem from="1608963661074" duration="1293000" />
-      <workItem from="1608974709366" duration="881000" />
+      <workItem from="1608974709366" duration="985000" />
+      <workItem from="1630164364544" duration="1993000" />
+      <workItem from="1630241310708" duration="563000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1587703351590</created>
@@ -361,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599383640146</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Default Changelist">
+      <created>1608975695634</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608975695634</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -426,7 +436,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aa" />
     <MESSAGE value="add docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="add docs" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/serverless.yml" />

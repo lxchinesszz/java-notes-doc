@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f0a49d8-7327-4fc9-88f0-c1661096bf39" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/testDocs/test1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testDocs/test2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testDocs/test3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -299,7 +295,8 @@
       <workItem from="1608963661074" duration="1293000" />
       <workItem from="1608974709366" duration="985000" />
       <workItem from="1630164364544" duration="1993000" />
-      <workItem from="1630241310708" duration="563000" />
+      <workItem from="1630241310708" duration="606000" />
+      <workItem from="1630242392711" duration="985000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1587703351590</created>
@@ -371,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608975695634</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Default Changelist">
+      <created>1630242039117</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1630242039117</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
